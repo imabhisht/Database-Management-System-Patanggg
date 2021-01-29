@@ -1,0 +1,33 @@
+.space{
+    padding: 20px;
+}
+
+.home-btn{
+    border: 1px solid black;
+    padding: 8px 30px;
+    color: black;
+    letter-spacing: normal;
+}
+.home-btn:hover{
+    background-color: #41fc03;
+    color: white;
+    font-weight: bold;
+    border-color: #41fc03;
+    transition: all 0.2s;
+}
+
+.load-btn{
+    border: 1px solid black;
+    padding: 8px 30px;
+    color: black;
+}
+
+.load-btn:hover{
+    color: white;
+    font-weight: bold;
+    transition: all 0.2s;
+}
+.shipping-btn:hover{
+    background-color: #038cfc;
+    border: 1px solid #038cfc;
+}

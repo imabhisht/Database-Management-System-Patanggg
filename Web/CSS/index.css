@@ -1,0 +1,95 @@
+.body-starting {
+  background-color: white;
+}
+
+.heading-1 {
+  position: relative;
+  width: 168px;
+  height: 45px;
+  left: 30px;
+  top: 25px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  font-size: 75px;
+  line-height: 45px;
+  color: white;
+  opacity: 99%;
+  text-shadow: black;
+}
+
+.read-database-button {
+  position: fixed;
+  top: 30px;
+  left: 30px;
+  display: inline-block;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 599;
+  color: black;
+  padding: 10px 73px;
+  outline: 0;
+  border-color: black;
+  transition: 0.3s;
+  letter-spacing: 2px;
+}
+
+.read-database-button:hover {
+  color: white;
+  font-weight: bold;
+  text-shadow: black;
+}
+
+.database-notification-button {
+  position: fixed;
+  top: 100px;
+  left: 30px;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 599;
+  color: black;
+  padding: 10px 71px;
+  outline: 0;
+  transition: 0.3s;
+  letter-spacing: 2px;
+  border-color: black;
+}
+
+.database-notification-button:hover {
+  color: white;
+  font-weight: bold;
+  text-shadow: black;
+}
+
+.place-order {
+  position: fixed;
+  top: 170px;
+  left: 30px;
+  display: inline-block;
+  font-size: 18px;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 599;
+  color: black;
+  padding: 10px 125px;
+  outline: 0;
+  transition: 0.3s;
+  letter-spacing: 2px;
+  border-color: black;
+}
+
+.place-order:hover {
+  color: white;
+  font-weight: bold;
+  text-shadow: black;
+}
+
+.shipped-order {
+  top: 240px;
+  padding: 10px 117px;
+}
+.phase4 {
+  top: 310px;
+  padding: 10px 142px;
+}

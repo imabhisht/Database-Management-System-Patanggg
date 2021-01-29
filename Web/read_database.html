@@ -1,0 +1,50 @@
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="/eel.js"></script>
+    <script type="text/javascript" src="JS/read_database.js"></script>
+<title>Read Database</title>
+<link rel="stylesheet" href="CSS/read_database.css">
+</head>
+<body>
+	<div class="btn-group">
+		<button class="btn-status green-btn btn btn-secondary btn-group-sm " type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onclick="window.location.href='index.html';">
+		  Home
+		</button>
+	</div>
+	<div class="btn-group">
+		<button class="btn-status btn btn-secondary btn-group-sm dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+		  Status Data  <span class="caret"></span></button>
+		</button>
+		<div class="dropdown-menu">
+				<li><a onclick="start_me('WaitingForApproval')">WaitingForApproval</a></li>
+                <li><a onclick="start_me('Approved')">Approved</a></li>
+                <li><a onclick="start_me('Shipping')">Shipping</a></li>
+				<li><a onclick="start_me('Shipped')">Shipped</a></li>
+				<li><a onclick="start_me('OutForDelivery')">OutForDelivery</a></li>
+				<li><a onclick="start_me('Delivered')">Delivered</a></li>
+				<li class="divider"></li>
+				<li><a onclick="start_me('Cancelled')">Cancelled</a></li>
+				<li><a onclick="start_me('Undelivered')">Undelivered</a></li>
+				
+		  </div>
+	</div>
+	<div id="myModal" class="modal fade">		
+	</div>
+	<table id="database-read" class="table">
+		<thead class="head">
+			<tr>
+				<th>Order ID</th>
+				<th>Info</th>	
+			</tr>
+		</thead>
+		<tbody id="tableData" class="table">
+			
+		</tbody>
+	</table>
+    
+</body> 
+</html>

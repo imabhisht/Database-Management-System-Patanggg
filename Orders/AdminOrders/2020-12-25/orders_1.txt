@@ -1,0 +1,37 @@
+Products -------------------------------------------------------------------------------------------
+
+c06ac663-db6c-4c64-abff-9d5a89bf5a18  Cheel Patang (Normal)                               0
+
+7cae3472-108d-4aa2-996a-02ba9301ac3e  Designer Cheel Patang - White                       0
+
+744ba596-0d4d-48ac-b209-9e7b327985e4  Designer Cheel Patang - Blue                        1
+
+af8bcf71-0597-4571-8d0f-3e60466aaa83  Designer Cheel Chapat - Tiger                       0
+
+8a9312a8-5bac-47c3-8c1b-20e7ef05a059  Designer Cheel Chapat - Big Checkered               0
+
+5a7e93f2-b58c-4b61-bd96-0a0328e140bb  Mandala - Designer Cheel Chapat                     0
+
+328a737f-e39e-426e-8bb0-afd6182c7a01  Checkered - Designer Cheel Chapat                   0
+
+3a6a9736-e110-4994-b1e2-bda622465080  Owl - Designer Cheel Chapat                         0
+
+34cb191a-5d5e-4010-a893-2c7e51b09dc3  Red Eye - Designer Cheel Chapat                     0
+
+601716a6-4e35-4e09-bf66-9f16f9a00f61  Designer Cheel Chapat - White                       0
+
+54e660b7-7aa0-4dab-bb35-bbcc746647a3  Designer Cheel Patang - Pink                        0
+
+794cb82c-aa99-407c-bc94-b4de016eeb11  Designer Cheel Patang - Green                       3
+
+4fc8eaf3-148b-472c-9bac-afaab6150d0a  Tri Color - Designer Cheel Chapat                   3
+
+----------------------------------------------------------------------------------------------------
+
+
+Deals ---------------------------------------------------------------------------------------------
+
+80f6cc10-c40e-4ecc-b66b-94ba98450b55  End of the Year Deal                                0
+
+----------------------------------------------------------------------------------------------------
+
