@@ -4,7 +4,7 @@ Capabilites to Reviewing  Orders, Adding Product, Reviewing Products, Deleting O
 
 Check the App [here](bit.ly/Patanggg-App).
 
-***Firestore NoSQL Database used.***
+***Firestore NoSQL Database is used.***
 
 Screenshots:-
 
