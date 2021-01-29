@@ -2,7 +2,7 @@
 
 Capabilites to Reviewing  Orders, Adding Product, Reviewing Products, Deleting Orders & Getting Info of Clients from Database.
 
-Check the App [here](bit.ly/Patanggg-App).
+Check the App [here](https://play.google.com/store/apps/details?id=com.patang.patanggg).
 
 ***Firestore NoSQL Database is used.***
 
